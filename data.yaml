@@ -1,0 +1,5 @@
+
+train: D:/pythonProject/AbnormalEnvMonitor/EEMSData\train\images
+val:   D:/pythonProject/AbnormalEnvMonitor/EEMSData\valid\images
+nc: 2
+names: [smoke, fire]
